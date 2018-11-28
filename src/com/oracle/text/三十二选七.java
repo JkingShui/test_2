@@ -15,6 +15,7 @@ public class 三十二选七 {
 			arrs[jb1] = arrs[jb2];
 			arrs[jb2] = temp;
 		}
+		//。。。。。。。。。。
 		for(int i = 0 ; i<7 ; i++){
 			System.out.print(arrs[i]+" ");
 		}
