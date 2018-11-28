@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class ErWeiShuZu {
 	public static void main(String[] args) {
-		
+		//
 		int[][] arrs1 = {{1,2,3},{55,77,44},{1,4}};
 		int[][] arrs2 = new int[3][3];
 		arrs2[0][0] = 1;
