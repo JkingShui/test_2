@@ -14,6 +14,9 @@ public class Car {
 	public void canPiaoYi(){
 		System.out.println("i can piaoYi");
 	}
+	
+	
+	
 	// get/set
 	// shift alt s ----r
 	
